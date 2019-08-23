@@ -1,5 +1,5 @@
 ### Date created
-This project and README file were created on  .
+This project and README file were created on 08/22/2019.
 
 ### Project Title
 
