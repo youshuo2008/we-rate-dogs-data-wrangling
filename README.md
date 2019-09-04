@@ -2,7 +2,7 @@
 This project and README file were created on 08/22/2019.
 
 ### Project Title
-WeRateDogs Twitter Analysis
+WeRateDogs Twitter Tweets Analysis
 
 ### Project Description
 This project focuses on Data Wrangling which is process of: gathering, assessing and cleaning data.
