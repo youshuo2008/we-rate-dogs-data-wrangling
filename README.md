@@ -5,10 +5,7 @@ This project and README file were created on 08/22/2019.
 WeRateDogs Twitter Tweets Analysis
 
 ### Project Description
-This project focuses on Data Wrangling which is process of: gathering, assessing and cleaning data.
-As part of my Udacity's Data Analyst Nanodegree project, I gathered WeRateDogs twitter data from three different sources (including data from the twitter API) and read in the data as three Pandas dataframe. Then I assessed each dataframe and documented all the data quality/tidiness issues found. Next, I performed data cleaning to address the issues one by one and documented my efforts in the 'wrangle_report.html'.
-Finally, I did some Exploratory Data Analysis (EDA) and generated a report to document my findings ('act_report.html').
-
+As part of my Udacity's Data Analyst Nanodegree, this project focuses on Data Wrangling which is process of: gathering, assessing and cleaning data. In order to gain insights from the WeRateDogs twitter data, the first step is to gather data. For this project, the Twitter tweets information were obtained from three different sources (including querying from the twitter API). Then, all the data quality/tidiness issues were identified, documented and addressed one by one. The data cleaning efforts were recorded as a report 'wrangle_report.html'. Exploratory Data Analysis (EDA) was conducted on the cleaned dataset and interesting findings were revealed in the 'act_report.html'.    
 
 ### Files used
 The 'twitter-archive-enhanced.csv' was provided by Udacity.
