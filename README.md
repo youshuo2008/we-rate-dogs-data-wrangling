@@ -9,8 +9,8 @@ As part of my Udacity's Data Analyst Nanodegree, this project focuses on Data Wr
 
 ### Files used
 The 'twitter-archive-enhanced.csv' was provided by Udacity.
-The 'image_predictions.tsv' was programmatically downloaded from Udacity's server.
-The 'tweet_json.txt' file was obtained by querying Twitter's API.
+'image_predictions.tsv' was programmatically downloaded from Udacity's server.
+'tweet_json.txt' was obtained by querying Twitter's API.
 A master dataset 'twitter_archive_master.csv' was created by merging the above three datasets by 'tweet_id'.
 
 ### Credits
