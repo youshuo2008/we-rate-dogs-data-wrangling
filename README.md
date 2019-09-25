@@ -14,4 +14,5 @@ The 'twitter-archive-enhanced.csv' was provided by Udacity. <br />
 A master dataset 'twitter_archive_master.csv' was created by merging the above three datasets by 'tweet_id'.
 
 ### Credits
-Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V and George L as well as Udacity's project reviewers.
+Special thanks to my Udacity teachers: Richard Kalehoff, Juno Lee, Karl Krueger, Josh Bernhard, Sebastian Thrun, Mike Yi, <br />
+Daivid Venturi, Mat Leonard, Sam Nelson, Derek Steer and mentors: Raj V and George L as well as Udacity's project reviewers.
